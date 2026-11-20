@@ -1,0 +1,12 @@
+1.setup.py
+(
+    setup.py Python project ki packaging and installation configuration file hai.
+
+Iska main purpose ye hai ke hamare project ko ek installable Python package banaya ja sake, taake doosre developers bhi easily use kar saken.
+
+Iske 4 main tasks hain:
+1. Project Metadata: Hamare project ka name, version, author aur email define karna.
+2. Package Discovery: find_packages() se hamare project ke Python packages automatically find karna.
+3. Dependency Management: requirements.txt se required libraries read karke install_requires mein provide karna.
+4. Project Installation: pip install -e . ke through hamare project ko editable mode mein install karna.
+)
