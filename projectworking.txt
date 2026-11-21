@@ -15,3 +15,6 @@ Iske 4 main tasks hain:
     Here we create the loger file which configure the logging logic 
 )
 
+3.C:\Users\HP\OneDrive\Desktop\NetworkSecurity\networksecurity\execption\execption.py (
+    Here we made the exception logic so we could easliy find where the error occurs 
+)
