@@ -10,3 +10,8 @@ Iske 4 main tasks hain:
 3. Dependency Management: requirements.txt se required libraries read karke install_requires mein provide karna.
 4. Project Installation: pip install -e . ke through hamare project ko editable mode mein install karna.
 )
+
+2.C:\Users\HP\OneDrive\Desktop\NetworkSecurity\networksecurity\logging\logger.py (
+    Here we create the loger file which configure the logging logic 
+)
+
