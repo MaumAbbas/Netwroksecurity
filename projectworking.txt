@@ -18,3 +18,11 @@ Iske 4 main tasks hain:
 3.C:\Users\HP\OneDrive\Desktop\NetworkSecurity\networksecurity\execption\execption.py (
     Here we made the exception logic so we could easliy find where the error occurs 
 )
+4. we are performing some ETL in which we will Extract the data and transform the data into json and load the data into mongodb.
+
+
+5.mongodb+srv://<db_username>:<db_password>@cluster0.jy7rjbg.mongodb.net/
+
+6.push_data.py (
+    Now make the ETL pipe line in which we build conncetion with db and also perforimg SSL/TSL certificate  and convert the csv file data to json and save in db
+)  

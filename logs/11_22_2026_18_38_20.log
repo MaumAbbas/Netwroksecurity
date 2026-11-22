@@ -1,0 +1,5 @@
+[ 2026-11-22 18:38:20,757 ] 53 root - INFO - Reading CSV file
+[ 2026-11-22 18:38:20,834 ] 61 root - INFO - Successfully converted 11055 records
+[ 2026-11-22 18:38:20,834 ] 76 root - INFO - Connecting to MongoDB Atlas
+[ 2026-11-22 18:38:32,165 ] 88 root - INFO - MongoDB connection successful
+[ 2026-11-22 18:38:53,017 ] 101 root - INFO - Successfully inserted 11055 records
